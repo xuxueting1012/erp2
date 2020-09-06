@@ -6,8 +6,11 @@ public class Hello{
 		  	  System.out.println("master修改的");
 
 		    System.out.println("害怕");
-			 System.out.println("dev 改的");
-			 System.out.println("dev 删除重新改的");
+			 System.out.println("dev 面");
+			 System.out.println("dev 面");
+			 System.out.println("dev 面");
+			 System.out.println("dev 面");
+			
 
 	 }
 }
