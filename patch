@@ -1,0 +1,17 @@
+diff --git a/Emp.java b/Emp.java
+index 7fa8606..b942509 100644
+--- a/Emp.java
++++ b/Emp.java
+@@ -1,9 +1,10 @@
+-public class Hello{
++public class Emp{
+ 	 public static void main(string args[]) {
+ 		 System.out.println("Hello GIT");
+ 		  System.out.println("修改了bug");
+ 		  System.out.println("伤心1");
+ 		  System.out.println("伤心2");
+ 		  System.out.println("伤心3");
++		    System.out.println("dev");
+ 	 }
+ }
+\ No newline at end of file
